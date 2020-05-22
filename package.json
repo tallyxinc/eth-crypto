@@ -40,14 +40,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pubkey/eth-crypto.git"
+    "url": "git+https://github.com/tallyxinc/eth-crypto.git"
   },
   "author": "pubkey",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pubkey/eth-crypto/issues"
+    "url": "https://github.com/tallyxinc/eth-crypto/issue"
   },
-  "homepage": "https://github.com/pubkey/eth-crypto#readme",
+  "homepage": "https://github.com/tallyxinc/eth-crypto#eth-crypto",
   "devDependencies": {
     "assert": "2.0.0",
     "async-test-util": "1.7.3",
@@ -110,7 +110,7 @@
   "dependencies": {
     "@types/bn.js": "4.11.6",
     "babel-runtime": "6.26.0",
-    "eccrypto": "git+https://github.com/GeekRishabh/eccrypto.git",
+    "eccrypto": "git+https://github.com/tallyxinc/eccrypto.git",
     "eth-lib": "0.2.8",
     "ethereumjs-tx": "2.1.2",
     "ethereumjs-util": "6.2.0",
